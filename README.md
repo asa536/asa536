@@ -1,8 +1,7 @@
+<p><img src="https://visitcount.itsvg.in/api?id=asa536&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
+
 <h1>Hi 👋, I'm Asa</h1>
 I'm a software engineer.currently, I'm learning ML as a field of AI <br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=asa536&label=Profile%20views&color=0e75b6&style=flat" alt="asa536" /> </p>
-<hr>
 
 <h3 align="left">You can connect with me on:</h3>
 <p align="left">
