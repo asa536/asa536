@@ -7,7 +7,7 @@ I'm a software engineer.currently, I'm learning ML as a field of AI <br><br>
 <h3 align="left">You can connect with me on:</h3>
 <p align="left">
   <a href="https://github.com/asa536"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-	<a href="https://www.linkedin.com/in/asa-shabanian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/asa-shabanian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.kaggle.com/asashabanian"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </p>
 <hr>
