@@ -1,7 +1,12 @@
-### Hi there 👋
-# I'm Asa Shabanian
+### Hi there 👋 
+### I'm Asa Shabanian
+<br>
 
-<!--
+## 📫 How to reach me:
+<p>
+  	<a href="https://github.com/asa536"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+	<a href="https://www.linkedin.com/in/asa-shabanian"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 Here are some ideas to get you started:
 
@@ -15,8 +20,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫 How to reach me:
-<p align="center">
-  <a href="https://github.com/asa536"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/asa shabanian/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
-</p>
